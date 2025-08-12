@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zorgaslol
+- 👋 @zorgaslol
 - 👀 I’m interested in html/css/javascript
 - 🌱 I’m currently learning html/css/javascript and learning how to create websites with them
 
